@@ -6,13 +6,13 @@ export default defineAppConfig({
     color: "#FD81B7",
 
     repository: "https://github.com/SerlithNetwork/flare-viewer",
-    discord: "https://discord.serlith.net",
+    discord: "https://discord.biquaternions.me",
     blog: "https://blog.biquaternions.me",
 
     flare: "https://github.com/SerlithNetwork/FlarePlatform",
 
-    holder: "Serlith Network",
-    url: "https://flare.serlith.net/",
+    holder: "Flare Viewer",
+    url: "https://flare.biquaternions.me/",
 
     ui: {
         colors: {
